@@ -4,6 +4,5 @@ public class Book {
         System.out.println("Book Author");
         System.out.println("Published Date");
         System.out.println("Publisher");
-
     }
 }
