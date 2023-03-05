@@ -3,6 +3,6 @@ public class Book {
         System.out.println("Book Name");
         System.out.println("Book Author");
         System.out.println("Published Date");
-        System.out.println("Publisher");
+        System.out.println("Publisher ");
     }
 }
